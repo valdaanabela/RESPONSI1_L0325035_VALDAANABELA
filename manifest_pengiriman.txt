@@ -1,0 +1,8 @@
+       MANIFES PENGIRIMAN LOGISTIK DAERAH 3T      
+EDX-01       | Laptop             | Elektronik   | 3,00 Kg
+EDX-02       | Televisi           | Elektronik   | 4,00 Kg
+EDX-03       | Mesin cuci         | Elektronik   | 7,00 Kg
+Total Jenis Barang : 3 item
+Total Berat Muatan : 14,00 Kg
+Rekomendasi Armada : Mobil Pickup
+
